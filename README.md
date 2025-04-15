@@ -11,10 +11,10 @@
 * **[2024-03-27]** The paper is released on ArXiv.
 
 ## TODO
-- [X] Release the inference code.
-- [X] Release the training code.
-- [X] Support image generation in a resolution of 512x512.
-- [ ] Scale up the model size (based on LLaMA3) and increase the number of training data.
+- [ ] Release the fine-tuned Face-LLaVA model.
+- [ ] Release the evaluation code.
+- [ ] Release the test set.
+- [ ] Release the training set.
 
 ## Citation
 If you find this work useful for your research, please consider citing our paper:
