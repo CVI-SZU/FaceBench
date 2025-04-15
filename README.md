@@ -3,7 +3,9 @@
 Xiaoqin Wang, Xusen Ma, Xianxu Hou, Meidan Ding, Yudong Li, Junliang Chen, Wenting Chen, Xiaoyang Peng, Linlin Shen* 
 
   
-[![ArXiv](https://img.shields.io/badge/ArXiv-2503.21457-B31B1B.svg)](https://arxiv.org/pdf/2503.21457) [![Webpage](https://img.shields.io/badge/Webpage-FaceBench-<COLOR>.svg)](https://github.com/CVI-SZU/FaceBench/tree/main)
+[![ArXiv](https://img.shields.io/badge/ArXiv-2503.21457-B31B1B.svg)](https://arxiv.org/pdf/2503.21457)
+[![Webpage](https://img.shields.io/badge/Webpage-FaceBench-<COLOR>.svg)](https://github.com/CVI-SZU/FaceBench/tree/main)
+[![Dataset](https://img.shields.io/badge/Demo-HuggingFace-<COLOR>.svg)](https://huggingface.co/spaces/showlab/Show-o)
 
 <img src="./assets/overview.png" width="100%" height="100%">
 
