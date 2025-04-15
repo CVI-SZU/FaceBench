@@ -1,5 +1,4 @@
 <div align="center">
 <br>
-<img src="docs/showo_title.png" width="166">
-<h3>One Single Transformer to Unify Multimodal Understanding and Generation</h3>
+<h3>FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs</h3>
 </div>
