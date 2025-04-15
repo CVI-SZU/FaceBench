@@ -1,7 +1,7 @@
 <div align="center">
 <h3>FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs [CVPR 2025]</h3>
   
-[![ArXiv](https://img.shields.io/badge/ArXiv-2503.21457-B31B1B.svg)](https://arxiv.org/pdf/2503.21457) [![Webpage](https://img.shields.io/badge/Webpage-Showo-<COLOR>.svg)](https://showlab.github.io/Show-o/)
+[![ArXiv](https://img.shields.io/badge/ArXiv-2503.21457-B31B1B.svg)](https://arxiv.org/pdf/2503.21457) [![Webpage](https://img.shields.io/badge/Webpage-FaceBench-<COLOR>.svg)](https://github.com/CVI-SZU/FaceBench/tree/main)
 
 <img src="./assets/overview.png" width="100%" height="100%">
 
