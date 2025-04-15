@@ -14,7 +14,7 @@
 - [X] Support image generation in a resolution of 512x512.
 - [ ] Scale up the model size (based on LLaMA3) and increase the number of training data.
 
-### Citation
+## Citation
 If you find this work useful for your research, please consider citing our paper:
 ```
 @inproceedings{wang2025facebench,
