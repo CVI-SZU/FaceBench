@@ -5,6 +5,15 @@
 
 </div>
 
+## News
+* **[2024-09-12]** Arxiv paper updated to include preliminaries about discrete diffusion.
+
+## TODO
+- [X] Release the inference code.
+- [X] Release the training code.
+- [X] Support image generation in a resolution of 512x512.
+- [ ] Scale up the model size (based on LLaMA3) and increase the number of training data.
+
 ### Citation
 If you find this work useful for your research, please consider citing our paper:
 ```
