@@ -6,7 +6,6 @@
 </div>
 
 ### Citation
----
 If you find this work useful for your research, please consider citing our paper:
 ```
 @inproceedings{wang2025facebench,
