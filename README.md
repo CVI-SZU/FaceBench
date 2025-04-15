@@ -11,10 +11,9 @@
 * **[2024-03-27]** The paper is released on ArXiv.
 
 ## TODO
-- [ ] Release the fine-tuned Face-LLaVA model.
+- [ ] Release the Face-LLaVA model and inference code.
 - [ ] Release the evaluation code.
-- [ ] Release the test set.
-- [ ] Release the training set.
+- [ ] Release the dataset.
 
 ## Citation
 If you find this work useful for your research, please consider citing our paper:
