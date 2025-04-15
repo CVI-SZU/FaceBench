@@ -6,7 +6,7 @@
 </div>
 
 ## News
-* **[2024-09-12]** Arxiv paper updated to include preliminaries about discrete diffusion.
+* **[2024-03-27]** The paper is released on ArXiv.
 
 ## TODO
 - [X] Release the inference code.
