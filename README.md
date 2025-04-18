@@ -12,7 +12,7 @@ Xiaoqin Wang, Xusen Ma, Xianxu Hou, Meidan Ding, Yudong Li, Junliang Chen, Wenti
 
 </div>
 
-## 🔥 News
+## News
 * **[2024-03-27]** The paper is released on ArXiv.
 
 ## TODO
@@ -20,7 +20,7 @@ Xiaoqin Wang, Xusen Ma, Xianxu Hou, Meidan Ding, Yudong Li, Junliang Chen, Wenti
 - [ ] Release the evaluation code.
 - [ ] Release the dataset.
 
-## 📖 Citation
+## Citation
 If you find this work useful for your research, please consider citing our paper:
 ```
 @inproceedings{wang2025facebench,
