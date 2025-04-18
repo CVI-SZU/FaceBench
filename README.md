@@ -21,6 +21,10 @@ Xiaoqin Wang, Xusen Ma, Xianxu Hou, Meidan Ding, Yudong Li, Junliang Chen, Wenti
 - [ ] Release the dataset.
 
 ## Dataset Statistics
+- **Distribution of visual question-answer pairs.**
+<p align="center">
+    <img src="./assets/VQAs.jpg" width="96%" height="50%">
+</p>
 
 ## Experimental Results
 - **Experimental results of various MLLMs and our Face-LLaVA across five facial attribute views.**
