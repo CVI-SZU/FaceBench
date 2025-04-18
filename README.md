@@ -26,7 +26,7 @@ Xiaoqin Wang, Xusen Ma, Xianxu Hou, Meidan Ding, Yudong Li, Junliang Chen, Wenti
     <img src="./assets/VQAs.jpg" width="96%" height="50%">
 </p>
 
-- **Some samples from our FaceBench dataset.**
+- **Some samples from our dataset.**
 <p align="center">
     <img src="./assets/example.png" width="96%" height="50%">
 </p>
