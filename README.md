@@ -42,4 +42,11 @@ If you find this work useful for your research, please consider citing our paper
   booktitle={Proceedings-2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2025},
   year={2025}
 }
+
+@article{wang2025facebench,
+  title={FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs},
+  author={Wang, Xiaoqin and Ma, Xusen and Hou, Xianxu and Ding, Meidan and Li, Yudong and Chen, Junliang and Chen, Wenting and Peng, Xiaoyang and Shen, Linlin},
+  journal={arXiv preprint arXiv:2503.21457},
+  year={2025}
+}
 ```
