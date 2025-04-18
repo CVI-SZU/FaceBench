@@ -25,7 +25,7 @@ Xiaoqin Wang, Xusen Ma, Xianxu Hou, Meidan Ding, Yudong Li, Junliang Chen, Wenti
 ## Experimental Results
 
 <p align="center">
-    <img src="./assets/five-view-results.jpg" width="100%" height="60%">
+    <img src="./assets/five-view-results.jpg" width="100%" height="50%">
 </p>
 
 ## Citation
