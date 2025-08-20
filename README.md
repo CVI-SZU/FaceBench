@@ -7,13 +7,14 @@ Xiaoqin Wang, Xusen Ma, Xianxu Hou, Meidan Ding, Yudong Li, Junliang Chen, Wenti
 [![Dataset](https://img.shields.io/badge/HuggingFace🤗-Dataset-blue)](https://github.com/CVI-SZU/FaceBench/tree/main)
 [![Models](https://img.shields.io/badge/HuggingFace🤗-Models-blue)](https://huggingface.co/wxqlab/face-llava-v1.5-13b)
 
-<img src="./assets/overview.png" width="100%" height="100%">
+
+<img src="./assets/overview.png" width="90%" height="90%">
 
 </div>
 
 ## News
-* **[2024-08-20]** The Face-LLaVA model is released on HuggingFace.
-* **[2024-03-27]** The paper is released on ArXiv.
+* **[2024-08-20]** The Face-LLaVA model is released on [HuggingFace](https://huggingface.co/wxqlab/face-llava-v1.5-13b)🤗.
+* **[2024-03-27]** The paper is released on [ArXiv](https://arxiv.org/pdf/2503.21457)🔥.
 
 ## TODO
 - [X] Release the Face-LLaVA model and inference code.
