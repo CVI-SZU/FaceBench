@@ -12,6 +12,12 @@ Xiaoqin Wang, Xusen Ma, Xianxu Hou, Meidan Ding, Yudong Li, Junliang Chen, Wenti
 In this work, we introduce **FaceBench**, a dataset featuring hierarchical multi-view and multi-level attributes specifically designed to assess the comprehensive face perception abilities of MLLMs. We construct a hierarchical facial attribute structure, which encompasses five views with up to three levels of attributes, totaling over **210** attributes and **700** attribute values. Based on the structure, the proposed FaceBench consists of **49,919 visual question-answering (VQA) pairs** for evaluation and **23,841 pairs for fine-tuning**. Moreover, we further develop a robust face perception MLLM baseline, **Face-LLaVA**, by training with our proposed face VQA data.
 <div align="center"><img src="./assets/overview.png" width="100%" height="100%"></div>
 
+#### Distribution of visual question-answer pairs
+<div align="center"><img src="./assets/VQAs.jpg" width="100%" height="100%"></div>
+
+#### Some samples from our dataset
+<div align="center"><img src="./assets/example.png" width="100%" height="100%"></div>
+
 ## News
 * **[2024-08-20]** The Face-LLaVA model is released on [HuggingFace](https://huggingface.co/wxqlab/face-llava-v1.5-13b)🤗.
 * **[2024-03-27]** The paper is released on [ArXiv](https://arxiv.org/pdf/2503.21457)🔥.
@@ -21,14 +27,20 @@ In this work, we introduce **FaceBench**, a dataset featuring hierarchical multi
 - [ ] Release the evaluation code.
 - [ ] Release the dataset.
 
-## Dataset Statistics
-**Distribution of visual question-answer pairs.**
-<div align="center"><img src="./assets/VQAs.jpg" width="100%" height="100%"></div>
-
-**Some samples from our dataset.**
-<div align="center"><img src="./assets/example.png" width="100%" height="100%"></div>
-
 ## Evaluation
+
+### Model inference
+```
+OMP_NUM_THREADS=8 CUDA_VISIBLE_DEVICES=0 python evaluation/inference.py \
+    --data-dir ./datasets/example/test.jsonl \
+    --images-dir ./datasets/example/images/ \
+    --model-name face_llava_1_5_13b \
+    --question-type "TFQ, SCQ, MCQ, OEQ" \
+    --save-dir "./responses-and-results/"
+```
+
+### Calculate metrics
+
 
 ## Results
 **Experimental results of various MLLMs and our Face-LLaVA across five facial attribute views.**
