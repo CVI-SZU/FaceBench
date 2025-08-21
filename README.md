@@ -24,7 +24,7 @@ In this work, we introduce **FaceBench**, a dataset featuring hierarchical multi
 
 ## TODO
 - [X] Release the Face-LLaVA model.
-- [ ] Release the evaluation code.
+- [X] Release the evaluation code.
 - [ ] Release the dataset.
 
 ## Evaluation
@@ -40,6 +40,10 @@ OMP_NUM_THREADS=8 CUDA_VISIBLE_DEVICES=0 python evaluation/inference.py \
 ```
 
 ### Calculate metrics
+```
+OMP_NUM_THREADS=8 CUDA_VISIBLE_DEVICES=5 python evaluation/evaluation.py \
+    --data-path ./responses-and-results/face_llava_1_5_13b_test_responses.jsonl"
+```
 
 
 ## Results
