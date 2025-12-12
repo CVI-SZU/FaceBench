@@ -25,7 +25,7 @@ In this work, we introduce **FaceBench**, a dataset featuring hierarchical multi
 ## TODO
 - [X] Release the Face-LLaVA model.
 - [X] Release the evaluation code.
-- [ ] Release the dataset.
+- [X] Release the dataset.
 
 ## Evaluation
 
